@@ -1,0 +1,3 @@
+react-alice-carousesl
+mui
+tailwindcss
